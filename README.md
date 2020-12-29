@@ -1,6 +1,6 @@
 # Smith-and-Gelfand-1992-Correction
 
-Bayesian Statistics Without Tears: A Sampling-Resampling Perspective by Smith and Gelfand is a highly cited paper by Smith and Gelfand discussing sampling methodologies for Bayesian Inference.
+Bayesian Statistics Without Tears: A Sampling-Resampling Perspective is a highly cited paper by Smith and Gelfand discussing sampling methodologies for Bayesian Inference.
 
 In their application to synthetic data, there is a major typo in their likelihood function. The correct likelihood function is:
 
