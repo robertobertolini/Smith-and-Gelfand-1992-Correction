@@ -10,6 +10,3 @@ where the data consisted of the following points:
 ![Likelihood Data](https://user-images.githubusercontent.com/47701939/103317242-ea816e00-49f8-11eb-9a9e-4b013eee1d01.png)
 
 In this document, maximum likelihood estimation is used to calculate the values for the parameters and plot a contour plot.
-
-
-
